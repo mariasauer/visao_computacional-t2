@@ -1,0 +1,6 @@
+# Dependências da tarefa (calibração de câmera) — compartilhadas com a dupla.
+# Instalar: python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+numpy
+# OpenCV <5: os tutoriais de calibração do OpenCV são para a série 4.x
+opencv-python-headless<5
+matplotlib
