@@ -15,7 +15,7 @@ header-includes:
 Heric Camargo - GRR 20203959
 Maria Sauer - GRRXXXXXXXX
 
-> Link do código: <https://github.com/SEU_USUARIO/visao_computacional-t2>
+> Link do código: <https://github.com/mariasauer/visao_computacional-t2>
 
 ## 1. Introdução
 
