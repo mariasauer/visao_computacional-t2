@@ -10,13 +10,6 @@ header-includes:
   - \usepackage{graphicx}
 ---
 
-# Relatório T2 - Visão Computacional
-
-Heric Camargo - GRR 20203959
-Maria Sauer - GRR 20221249
-
-> Repositório do projeto: <https://github.com/mariasauer/visao_computacional-t2>
-
 ## 1. Introdução
 
 
